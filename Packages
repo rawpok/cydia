@@ -1,0 +1,12 @@
+Package: com.rawpok.springtomize
+Name: Springtomize 2
+Version: 1.0
+Architecture: iphoneos-arm
+Description: SpringBoard customization
+Maintainer: rawpok
+Author: not rawpok
+Section: Tweaks
+Filename: debs/Springtomize2.deb
+Size: 207622
+MD5sum: 83af51e0a7624ffb9532c7b0d836681b
+SHA1: 3817b4684c11981b05da0e30ea92daff0cdb85fd
